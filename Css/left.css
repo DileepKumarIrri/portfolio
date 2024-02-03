@@ -1,6 +1,6 @@
 body{
     height: 100vh;
-    background: linear-gradient(white,rgb(0, 255, 238,0.8));
+    background: radial-gradient(white,rgb(0, 255, 238,0.6));
     /* transition: background 0.8s ease-in-out; */
 }
 .nav-container a{
@@ -24,7 +24,7 @@ li {
 }
 a{
     text-decoration: none;
-    background: linear-gradient(white,rgb(0, 255, 238, 0.3));
+    background: radial-gradient(white,rgb(0, 255, 238, 0.3));
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     border-radius: 18px;
     padding: 3px;

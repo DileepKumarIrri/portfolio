@@ -1,6 +1,6 @@
 body {
     height: 100vh;
-    background: linear-gradient(white,rgb(0, 255, 238,0.6));
+    background: radial-gradient(white,rgb(0, 255, 238,0.6));
     color: #495057;
     text-align: center;
     margin: 50px;
@@ -9,14 +9,14 @@ body {
 .al {
     
     
-    background: linear-gradient(white,rgb(0, 255, 238,0.6));
+    background: radial-gradient(white,rgb(0, 255, 238,0.6));
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 h2 {
-    background: linear-gradient(white,rgb(0, 255, 238,0.6));
+    background: radial-gradient(white,rgb(0, 255, 238,0.6));
     padding:15px;
     border-radius: 10px;
     color: #000000;
@@ -40,7 +40,7 @@ a {
 
 h4 {
   
-    background: linear-gradient(white,rgb(0, 255, 238,0.8));
+    background: radial-gradient(white,rgb(0, 255, 238,0.8));
     font-family: 'Philosopher', sans-serif;
     background-color: #f8f9fa;
     padding:15px;
@@ -52,7 +52,7 @@ h4 {
 
 h3 {
     border-radius: 10px;
-    background: linear-gradient(white,rgb(0, 255, 238,0.4));
+    background: radial-gradient(white,rgb(0, 255, 238,0.4));
     font-family: 'Philosopher', sans-serif;
     color: #000000;
     padding: 9px;
